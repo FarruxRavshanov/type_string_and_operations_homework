@@ -5,4 +5,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    d = 'uzumaki '
+    return d
+
+print(main())

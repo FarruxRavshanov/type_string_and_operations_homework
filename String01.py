@@ -5,7 +5,7 @@ def main():
     Returns:
         str: return answer.
     """
-    d = 'uzumaki '
+    d = '12345678'
     return d
 
 print(main())

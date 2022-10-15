@@ -7,7 +7,6 @@ def main():
         str: return answer.
     """
     s = ""
-    d = len(s)
-    return d
+    return s
 
 print(main())

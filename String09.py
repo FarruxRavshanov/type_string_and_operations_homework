@@ -1,3 +1,6 @@
+from re import S
+
+
 def main(x1,x2,x3):
     """
     Given three integers, x1, x2, and x3, return the "[x1, x2, x3]" string.
@@ -8,4 +11,7 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return 
+    s = "[x1, x2, x3]"
+    return s
+
+print(main(3, 4, 5))

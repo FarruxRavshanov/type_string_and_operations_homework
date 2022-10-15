@@ -7,4 +7,7 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    return 
+    d = s * n
+    return d
+
+print(main("w9", 3))

@@ -10,4 +10,4 @@ def main(first,last):
     d = first + ' ' + last
     return d
 
-print(main('Farruxjon', 'Ravshanov'))
+print(main('Farruxjon,', 'Ravshanov'))

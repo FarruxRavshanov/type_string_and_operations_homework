@@ -7,6 +7,6 @@ def main():
         str: return answer.
     """
     s = "s"
-    return '"s"'
+    return f'{s}'
 
 print(main())
